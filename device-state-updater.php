@@ -5,7 +5,7 @@
 // Setup your data here
 
 $CONTROLLER_ADDRESS = "41fGYwS3ABan4wAWSga9pKkgzDX7XwETYDtogQgrhYfiGHgX";
-$SECRET_KEY = "qqqwww";
+$SECRET_KEY = "hc666666";
 
 // ********************
 
